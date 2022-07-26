@@ -1,0 +1,23 @@
+.app {
+  padding: 4rem;
+}
+
+.cards_container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.center {
+  display: flex;
+  /* justify-content: cent */
+}
+
+.search_box {
+  box-sizing: border-box;
+  outline: none;
+  width: 100%;
+  border: 1px solid grey;
+  font-size: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
